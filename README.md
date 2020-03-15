@@ -1,7 +1,7 @@
 # Todo-List
 A simple todo list app implemented using django
 
-Requirements: django
+Requirements: django, python3
 
 Type the following into the command line.
 
