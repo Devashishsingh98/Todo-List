@@ -6,9 +6,11 @@ Requirements: django
 Type the following into the command line.
 
 How to install django:
+
 pip3 install django
 
 How to run:
+
 cd Todo-List
 
 python3 manage.py runserver
