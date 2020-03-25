@@ -15,4 +15,4 @@ cd Todo-List
 
 python3 manage.py runserver
 
-Open browser and goto [http://127.0.0.1:8000/](http://127.0.0.1)
+Open browser and goto [127.0.0.1:8000/](http://127.0.0.1:8000)
